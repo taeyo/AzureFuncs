@@ -1,4 +1,4 @@
-# AzureFuncs
+# my Azure Functions Samples (private)
 repo for azure functions sample 
 
 1. [Function to get last modified blob name in blob container](https://github.com/taeyo/AzureFuncs/tree/master/ssgHdfDemo)
